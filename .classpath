@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Plugin hot-swap platform"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/PlaceholderAPI-2.9.1.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/spigot.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/Vault.jar"/>>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/HolographicDisplays.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/askyblock.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/sbcore.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/worldguard-bukkit-6.2.2.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/ParticleAPI_v2.1.1.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/WorldEdit-FAWESupport.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/FastAsyncWorldEdit-bukkit-21.03.09-a5e5590-1285-22.3.8.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/sbsessionvar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
