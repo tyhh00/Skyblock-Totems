@@ -11,8 +11,8 @@
 	<classpathentry kind="var" path="cpsrcsvr/plugins/sbcore.jar"/>
 	<classpathentry kind="var" path="cpsrcsvr/plugins/worldguard-bukkit-6.2.2.jar"/>
 	<classpathentry kind="var" path="cpsrcsvr/plugins/ParticleAPI_v2.1.1.jar"/>
-	<classpathentry kind="var" path="cpsrcsvr/plugins/WorldEdit-FAWESupport.jar"/>
-	<classpathentry kind="var" path="cpsrcsvr/plugins/FastAsyncWorldEdit-bukkit-21.03.09-a5e5590-1285-22.3.8.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/worldedit-bukkit-6.1.9.jar"/>
+	<classpathentry kind="var" path="cpsrcsvr/plugins/FastAsyncWorldEdit-bukkit-17.09.05-cc7719e-876-16.3.2.jar"/>
 	<classpathentry kind="var" path="cpsrcsvr/plugins/sbsessionvar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
