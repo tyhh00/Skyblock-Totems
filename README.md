@@ -16,7 +16,7 @@
 </div>
 
 ## About The Project
-[![Vortex Network Skyblock Trailer V4](images/trailer.jpg)](https://www.youtube.com/watch?v=HiISgMdJ-yQ)<br/>
+[![Vortex Network Skyblock Trailer V4](images/traileryt.jpg)](https://www.youtube.com/watch?v=HiISgMdJ-yQ)<br/>
 Ore Totems are never-seen-before Ore Generating towers that when placed, you would right-click the ore totem to turn on Editor's mode, select stone blocks and then turn off editor mode to have the selected stone blocks start generating ores!
 <br/>
 <b>Ore Totems also have 3 upgrade paths:</b>
