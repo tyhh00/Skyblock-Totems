@@ -16,7 +16,7 @@
 </div>
 
 ## About The Project
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HiISgMdJ-yQ" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=HiISgMdJ-yQ" frameborder="0" allowfullscreen></iframe></div>
 Ore Totems are never-seen-before Ore Generating towers that when placed, you would right-click the ore totem to turn on Editor's mode, select stone blocks and then turn off editor mode to have the selected stone blocks start generating ores!
 
 <b>Ore Totems also have 3 upgrade paths:</b>
